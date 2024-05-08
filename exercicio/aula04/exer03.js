@@ -38,7 +38,7 @@ peso = Number(prompt("qual a seu peso?"));
 
 cal = (peso / altura) * 2;
 
-if(cal >= 18,5 && cal <= 24,9){
+if(cal >= 18.5 && cal <= 24.9){
     alert("ta certo");
 }else{
     alert("essas são as consequencias");
